@@ -1,3 +1,9 @@
+luatex (0.60.1-1genesi3) maverick; urgency=low
+
+  * No change rebuild for libz transition
+
+ -- Ahmed Ammar <aammar@genesi-usa.com>  Thu, 09 May 2013 12:23:48 -0400
+
 luatex (0.60.1-1build2) maverick; urgency=low
 
   * No change rebuild for (another) libpoppler transition
